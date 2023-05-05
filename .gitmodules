@@ -1,0 +1,27 @@
+[submodule "Pest-Identification-Front"]
+	path = Pest-Identification-Front
+	url = https://github.com/XUANXUQAQ/pest-identification-front.git
+[submodule "Pest-Identification-Yolov4"]
+	path = Pest-Identification-Yolov4
+	url = https://github.com/XUANXUQAQ/pest-identification-yolov4.git
+[submodule "pest-identification-provider"]
+	path = pest-identification-provider
+	url = https://github.com/XUANXUQAQ/pest-identification-provider.git
+[submodule "pest-identification-offline-net"]
+	path = pest-identification-offline-net
+	url = https://github.com/XUANXUQAQ/pest-identification-offline-net.git
+[submodule "Pest-Identification-Gateway"]
+	path = Pest-Identification-Gateway
+	url = https://github.com/XUANXUQAQ/pest-identification-gateway.git
+[submodule "pest-identification-entity"]
+	path = pest-identification-entity
+	url = https://github.com/XUANXUQAQ/pest-identification-entity.git
+[submodule "pest-identification-consumer"]
+	path = pest-identification-consumer
+	url = https://github.com/XUANXUQAQ/pest-identification-consumer.git
+[submodule "Pest-identification-app"]
+	path = Pest-identification-app
+	url = https://github.com/XUANXUQAQ/pest-identification-app.git
+[submodule "pest-identification-api"]
+	path = pest-identification-api
+	url = https://github.com/XUANXUQAQ/pest-identification-api.git
