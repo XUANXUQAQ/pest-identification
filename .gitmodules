@@ -25,3 +25,6 @@
 [submodule "pest-identification-api"]
 	path = pest-identification-api
 	url = https://github.com/XUANXUQAQ/pest-identification-api.git
+[submodule "pest-identification-android"]
+	path = pest-identification-android
+	url = https://github.com/XUANXUQAQ/pest-identification-android.git
