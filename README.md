@@ -4,7 +4,7 @@
 
 后端开发采用微服务架构，采用nacos作为服务的注册中心，下方为系统整体架构图
 
-![iaWJ1t.png](https://i.328888.xyz/2023/05/06/iaWJ1t.png)
+![architecture.png](https://raw.githubusercontent.com/XUANXUQAQ/pest-identification/main/architecture.png)
 
 ## 后端
 
